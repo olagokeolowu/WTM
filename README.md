@@ -1,3 +1,3 @@
 # WTM
 Project
-I am a prospective NAtive Developer.
+I am a prospective Native Developer.
