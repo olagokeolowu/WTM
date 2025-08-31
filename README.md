@@ -20,3 +20,15 @@ var occupation = "Software engineer"
 print("My name is \(name), I am a \(occupation)")
 
 My name is Oluebube, I am a Software engineer.
+
+
+# Olagoke's Task
+
+let firstName = "Olagoke"
+var lastName = "Olowu"
+let gender = "Male"
+let dateOfBirth = "200 B.C."
+var religion = "Christian".
+var occupation = "Native IOS Developer"
+
+print("\{firstName } \{lastName } is my name. I am a \{ gender}, \{ religion}, born \{ dateOfBirth}, and a \{ occupation}.")
