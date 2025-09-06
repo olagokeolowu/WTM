@@ -31,4 +31,4 @@ let dateOfBirth = "200 B.C."
 var religion = "Christian".
 var occupation = "Native IOS Developer"
 
-print("\{firstName } \{lastName } is my name. I am a \{ gender}, \{ religion}, born \{ dateOfBirth}, and a \{ occupation}.")
+print("\(firstName ) \(lastName ) is my name. I am a \( gender), \( religion), born \( dateOfBirth), and a \( occupation).")
